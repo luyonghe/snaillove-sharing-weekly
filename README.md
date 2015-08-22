@@ -129,7 +129,7 @@ Type is Beautiful 是一个关于文字设计和视觉文化的网站。我们�
 
 @WuXiao
 
-####1.[为什么英文比中文显得高大上？设计师必看！]((http://www.uisdc.com/english-chinese-font-design))
+####1.[为什么英文比中文显得高大上？设计师必看！](http://www.uisdc.com/english-chinese-font-design)
 
 >为什么大多数人会觉得衣服或车上印英文比印中文好看？严格意义上来说，这是一个无法放在一起做比较的两个属性。根据以上的几个案例。我们会发现，其实我们是在将文字的“实际表达含义”在与图形的“视觉形式美感”进行比较。
 
