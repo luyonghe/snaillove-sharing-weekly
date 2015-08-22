@@ -7,7 +7,7 @@ This is the weekly sharing in the company.
 
 [@ifeegoo](http://github.com/ifeegoo)
 
-####1.[IPN:Intelligent Podcast Network](http://ipn.li)
+####1.IPN:Intelligent Podcast Network
 
 ##### 什么是 IPN？
 
@@ -117,3 +117,50 @@ Type is Beautiful 是一个关于文字设计和视觉文化的网站。我们�
 好奇心日报是一个基于新闻和商业报道的生活方式媒体，包括智能、娱乐和城市三个板块，还有一个生活研究所供你吐槽。
 
 ***
+
+[@ZhangGang](http://github.com/Jackwaiting)
+
+####1.Pngyu
+
+Pngyu 是一个简单的PNG文件压缩工具，采用的是pngquant压缩引擎。   
+备注：特别适合做移动APP开发者压缩图片，减少安装包的大小。
+
+Reference:  
+[http://nukesaq88.github.io/Pngyu/](http://nukesaq88.github.io/Pngyu/)  
+[http://pngquant.org/](http://pngquant.org/)
+
+***
+
+@WuXiao
+
+####1.为什么英文比中文显得高大上？设计师必看！
+
+>为什么大多数人会觉得衣服或车上印英文比印中文好看？严格意义上来说，这是一个无法放在一起做比较的两个属性。根据以上的几个案例。我们会发现，其实我们是在将文字的“实际表达含义”在与图形的“视觉形式美感”进行比较。
+
+>这本来就是不严谨的类比方式。图形从视觉诱目度上来说，自然会更胜一筹。外国人看待我们的中文字，大脑也是会将其第一时间进行图形化或符号话处理。
+
+>这就是为很多外国人喜欢纹中文纹身的原因，不是他们喜欢中文，而是中文字体他们是当作图形来理解，而中文字的方块形式，又正好与他们本国的纤细文字有着巨大的反差。
+
+>造成这样感受的，其最本质的原因就在于我们大脑的反应速度。反应速度越慢，我们会觉得图形越好看。
+
+>欧美地区人群，在看到英文时，其实是和我们看到中文时的心理活动一致的，他们也会第一时间去解读单词的直接含义。
+
+>在设计中的中文也好，英文也罢，如需显得高端，必须保证第一时间不被解读出来。这也就是为什么，国内一些品牌喜欢在取名时，傍英文的目的。
+
+Reference:  
+[http://www.uisdc.com/english-chinese-font-design](http://www.uisdc.com/english-chinese-font-design)
+
+***
+
+@木昜景页
+
+####1.设计面面观。
+
+由独立制片人导演Gary Hustwit执导拍摄的《设计面面观》是一部以工业设计为主题的长篇独立纪录片。  
+影片详尽地展示了创造工业产品流程的实录片断，并记录了与世界顶尖设计师们的交谈与讨论。导演Gary Hustwit用洞察深切的镜头记录了这些在我们身边随处可见的工业设计产品，看似稀松平常的设计背后，却是设计师们倾尽全力的良苦用心。
+
+Reference:  
+[http://v.youku.com/v_show/id_XMTMxMDQwNTQ0.html](http://v.youku.com/v_show/id_XMTMxMDQwNTQ0.html)
+
+***
+
