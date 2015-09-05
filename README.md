@@ -1,6 +1,42 @@
 # snaillove-weekly-share
 This is the weekly sharing in the company.
 
+### #2 2015-09-05(Sat)
+
+***
+[@ifeegoo](http://github.com/ifeegoo)
+
+####1.最近两家科技公司的Logo的变化：
+
+Google:
+![](http://7te8bu.com1.z0.glb.clouddn.com/uploads/new/article/740_740/201509/55e6792ca3eb9.jpg)
+
+
+Meizu:  
+![](http://img1.mydrivers.com/img/20141024/b3e50eeab0fb4a71ac38aaa63dc33544.gif)  
+![](http://upload.techweb.com.cn/2015/0831/1441003468950.jpg)
+
+相关科技公司Logo变化：[竟然越换越丑？你想不到的科技公司LOGO进化史](http://mt.sohu.com/20150905/n420421489.shtml)
+
+####2.[让用户在输入密码时看到明文吧](http://beforweb.com/node/658)
+
+以前在PC时代，输入密码的时候，我们都只能看到“园点”，“星号”，时间久了，我们理所当然，认为输入密码的时候，必然是这个样子，你有想过让用户输入密码的时候，让他们看到明文吗？让用户看到明文有什么好处呢？
+
+####3.[别让用户觉得自己蠢](http://beforweb.com/node/753)
+
+在移动应用时代，用户体验是一个非常重要的点。如果你的应用到处都弥漫着让用户觉得自己蠢的地方，那你的应用离被用户抛弃就不远了。
+
+####4.[iphone手机翻墙](https://itunes.apple.com/cn/app/kuai-miao-jia-su-qivpn-gao/id1009096479)
+
+给大家推荐一个非常好用的VPN软件：[快喵加速器](https://itunes.apple.com/cn/app/kuai-miao-jia-su-qivpn-gao/id1009096479):有初始的免费流量送，每天还可以签到获取免费流量，操作简单，只需要一次安装描述文件，然后一键控制，就可以轻松看世界了！对于只刷刷Facebook,Twitter的用户来说，绝对不错！
+
+####5.[Mac系统上移除.DS_Store文件](http://asepsis.binaryage.com)
+
+作为开发人员，默认开启影藏文件显示，是技术人员必备习惯。但是有些人又不想看到那个不舒服的.DS_Store文件，给大家推荐的一款Mac软件[Asepsis](http://asepsis.binaryage.com)，可以完美的解决问题。可以让你在开启影藏文件显示的时候，看不到.DS_Store文件。想要知道它在技术上如何实现的吗？赶紧去一窥究竟吧！  
+[http://asepsis.binaryage.com](http://asepsis.binaryage.com)
+
+***
+
 ### #2 2015-08-29(Sat)
 
 ***
