@@ -16,6 +16,8 @@ Meizu:
 ![](http://img1.mydrivers.com/img/20141024/b3e50eeab0fb4a71ac38aaa63dc33544.gif)  
 ![](http://upload.techweb.com.cn/2015/0831/1441003468950.jpg)
 
+Google Logo的变化：[Google过去17年Logo的变化](http://v.qq.com/boke/page/f/0/6/f0164rt8ra6.html)
+
 相关科技公司Logo变化：[竟然越换越丑？你想不到的科技公司LOGO进化史](http://mt.sohu.com/20150905/n420421489.shtml)
 
 ####2.[让用户在输入密码时看到明文吧](http://beforweb.com/node/658)
