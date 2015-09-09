@@ -38,6 +38,12 @@ Google Logo的变化：[Google过去17年Logo的变化](http://v.qq.com/boke/pag
 [http://asepsis.binaryage.com](http://asepsis.binaryage.com)
 
 ***
+[@misparking](http://github.com/misparking)
+
+####1.[未来十年企业大趋势](http://read.haosou.com/article/?id=5ac615f9f4ffb81ec71bb45d7b5e82f0)
+十五年前的思考和十五年的行动才铸就了今天。O2O本身是个伪命题，从线下经济往线上经济走。坦克装上翅膀未必是飞机，坦克就是坦克，只有飞机和坦克的完全结合才能有未来。 未来的机会，是我们共同的合作，共同的打造未来。互联网经济不是虚拟经济，互联网经济是把虚拟经济和实体经济联合起来，这才是赢家！
+
+***
 
 ### #2 2015-08-29(Sat)
 
