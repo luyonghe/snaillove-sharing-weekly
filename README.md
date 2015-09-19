@@ -1,6 +1,18 @@
 # snaillove-weekly-share
 This is the weekly sharing in the company.
 
+### #3 2015-09-19(Sat)
+
+***
+####1.[iOS 9 有哪些新功能？](http://www.ifanr.com/563687)
+
+iOS 9 带给用户最新的功能，个人觉得印象比较深刻的内容有：1.输入法大小写的问题。2.新的任务管理器UI动画。当然还有作为开发者所遇到的各种技术的坑。
+
+[@ifeegoo](http://github.com/ifeegoo)
+
+
+***
+
 ### #2 2015-09-05(Sat)
 
 ***
