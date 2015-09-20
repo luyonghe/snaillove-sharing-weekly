@@ -4,12 +4,72 @@ This is the weekly sharing in the company.
 ### #3 2015-09-19(Sat)
 
 ***
+
+[@ifeegoo](http://github.com/ifeegoo)
+
 ####1.[iOS 9 有哪些新功能？](http://www.ifanr.com/563687)
 
 iOS 9 带给用户最新的功能，个人觉得印象比较深刻的内容有：1.输入法大小写的问题。2.新的任务管理器UI动画。当然还有作为开发者所遇到的各种技术的坑。
 
-[@ifeegoo](http://github.com/ifeegoo)
+####2.[XcodeGhost](http://blog.jobbole.com/91646)
 
+最近闹的沸沸扬扬的XcodeGhost事件，自己也是捏了一把汗，前两天准备更新到最新版本的Xcode7，需要测试iOS9。发现在App Store中更新Xcode，根本没有反应。只能去找第三方来下载了。发现很多大公司都中招。自己赶紧去测试Xcode7的dmg文件的MD5,SHA1值。
+
+Mac用户可以在Terminal中用"md5"和"shasum"命令分别查看相关文件的MD5和SHA1值。
+
+``` 
+ifeegoo:Downloads ifeegoo$ md5 Xcode_7.dmg
+MD5 (Xcode_7.dmg) = 6be3e59a8a8d2ce40fb2076575d71c24
+ifeegoo:Downloads ifeegoo$ shasum Xcode_7.dmg
+4afc067e5fc9266413c157167a123c8cdfdfb15e  Xcode_7.dmg
+```
+
+Windows用户可以在Command里面用 "certutil -hashfile "文件" MD5" 和 "certutil -hashfile "文件" SHA1" 命令来获取文件的MD5和SHA1值。
+
+```
+C:\Users\ifeegoo\Downloads>certutil -hashfile Xcode_7.dmg MD5
+MD5 哈希(文件 Xcode_7.dmg):
+6b e3 e5 9a 8a 8d 2c e4 0f b2 07 65 75 d7 1c 24
+CertUtil: -hashfile 命令成功完成。
+C:\Users\ifeegoo\Downloads>certutil -hashfile Xcode_7.dmg SHA1
+SHA1 哈希(文件 Xcode_7.dmg):
+4a fc 06 7e 5f c9 26 64 13 c1 57 16 7a 12 3c 8c df df b1 5e
+CertUtil: -hashfile 命令成功完成。
+```
+
+
+####3.[电信运营商数据缓存问题](http://ipn.li/kernelpanic/20/)
+
+不同的电信运营商之间进行数据交换，他们会采取数据缓存。我之前在北京更新Android apk文件的时候，就发现此类的问题。更新了apk文件，但是发现还是下载到的是之前的数据，但是换了运营商网络，就不存在这个问题。但是由于运营商本身缓存的机制存在技术问题。导致文件更新不到，甚至出现串文件的情况。可以听听著名播客"内核恐慌"它们出现的问题，你就知道了这个问题的所在。
+
+####4.[http://www.kat.ph](http://www.kat.ph)
+
+[http://www.kat.ph](http://www.kat.ph)，这个网站是除了之前海盗湾之外，现在资源比较丰富的种子网站。尤其是一些好莱坞电影，基本上是可以第一时间可以找到的。
+
+最近有一部电影，叫做[疯狂的麦克斯4 (Mad Max 4)](http://baike.baidu.com/subview/1624332/7832697.htm)，这是一部风格比较独特的电影，值得一看，推荐给大家。
+
+***
+
+[@chenyunxuan](https://github.com/chenyunxuan)
+
+####1.[有趣网址之家](http://youquhome.com/)
+
+这是一个收集了很多有趣网站的网站，很多有趣的内容，大家可以一探究竟。
+
+####2.[推荐微信公众账号：唉生活VS爱生活]
+
+微信ID：ashvsash
+
+这个公众账号推荐各种不错的视频资源。
+
+***
+
+[@wangrui](https://github.com/CatchComing)
+
+####1.[12分钟看完90万字科幻神作《三体》](http://www.acfun.tv/v/ac2167557)
+
+刘慈欣的《三体》是近年来少有的很棒的中国科幻小说，2014年底小说第一部的英文版在美国上市，反响热烈，并于2015年获得美国科幻奇幻协会“星云奖”等五个奖项提名。2015年8月23日，《三体》获第73届世界科幻大会颁发的雨果奖最佳长篇小说奖，这是亚洲人首次获得雨果奖。
+目前这部同名小说电影正在拍摄之中，导演是中国人，让我们拭目以待！
 
 ***
 
