@@ -88,6 +88,10 @@ Words are cheap,show you the pictures!
 
 ![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/spaceX.png)
 
+另外相关的新闻：  
+[Tesla Model X :全球首款鸥翼门SUV！](http://tech.qq.com/a/20151001/018374.htm)  
+[谁将第一个登上火星？拉斯维加斯真的开了个赌局，他们最看好Space X!](http://www.pingwest.com/wholl-be-the-first-to-set-foot-on-mars/)
+
 ***
 
 ### #3 2015-09-19(Sat)
