@@ -90,7 +90,8 @@ Words are cheap,show you the pictures!
 
 另外相关的新闻：  
 [Tesla Model X :全球首款鸥翼门SUV！](http://tech.qq.com/a/20151001/018374.htm)  
-[谁将第一个登上火星？拉斯维加斯真的开了个赌局，他们最看好Space X!](http://www.pingwest.com/wholl-be-the-first-to-set-foot-on-mars/)
+[谁将第一个登上火星？拉斯维加斯真的开了个赌局，他们最看好Space X!](http://www.pingwest.com/wholl-be-the-first-to-set-foot-on-mars/)  
+Elon Musk 在 TED 上的演讲:[http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity](http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity) 
 
 ***
 
