@@ -52,7 +52,7 @@ This is the weekly sharing in the company.
 
 Alphabet:字母表的意思。新的Alphabet公司的业务如下：
 
-![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/Alphabet-company-composition.png)
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/Alphabet-company-composition.jpg)
 
 备注：由于 www.alphabet.com 这个域名被宝马公司持有，Alphabet公司只能注册 abc.xyz域名为公司域名，另有消息称其还购买了 [www.abcdefghijklmnopqrstuvwxyz.com](www.abcdefghijklmnopqrstuvwxyz.com)作为备用。
 
