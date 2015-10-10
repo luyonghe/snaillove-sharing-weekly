@@ -1,6 +1,73 @@
 # snaillove-weekly-share
 This is the weekly sharing in the company.
 
+### #4 2015-10-10(Sat)
+
+***
+
+####1.苹果两款产品入华：
+
+[Apple Music](http://www.apple.com/cn/music)  
+三个月的免费试用，个人会员每月 RMB 10，家庭会员每月只需 RMB 15。  
+[iBooks](http://www.apple.com/support/ios/ibooks)  
+苹果电子书。  
+备注：另外请关注[微信读书](http://tech.qq.com/a/20150827/238620.htm)。
+
+####2.播客节目：字谈字畅(Type Chat)
+
+出品方：[Type is Beautiful](http://www.typeisbeautiful.com)。请在苹果设备的播客中搜索。第一台用华语制作的字体主题播客节目。微信公众号：[thetype]。
+
+####3.屠呦呦获得诺贝尔生理医学奖
+
+屠呦呦发现了青蒿素对疟疾的治疗作用，从而获得了诺贝尔生理医学奖，她说这是中药对世界的贡献。之前《罗辑思维》有一期节目讲的是"反对中医"的问题，其实他本质上是认同传统中医精华的部分。只是中医在很长的时间，没有确立类似于“大样本随机双盲试验”的理论。  
+```
+“大样本随机双盲试验”是现代医学判断疗效的“金标准”。  
+
+大样本：试验选取的样本数要尽可能多。因为统计学的“大数原则”告诉我们，样本越大，统计结果越能稀释掉那些特例（例如某些人免疫系统特别强或特别弱），也就越能逼近真实情况。
+
+随机：样本选取遵循随机原则。这样可以有效避免病人由于病情轻重而导致的痊愈效果阶段性差异。
+
+双盲：医生和病人双方都不知道病人所属的对照组。
+
+单盲：将样本病人随机分为以下三组，病人不清楚自己所属的组别，医生知道病人所属组别。
+
+第一组是对照组，不做任何治疗，用来观察病人疾病在没有治疗情况下的自愈效果。
+
+第二组是安慰剂组，给病人吃没有治疗成分的“假药”，用来观察病人的心理作用对疾病的影响。
+
+第三组是治疗组，给病人吃真药，观察这种药物或疗法的真实治疗效果。
+
+双盲：所有数据加密，连医生都不知道自己身处哪一组，而统计工作由第三方来进行。这样一来，就能很好屏蔽来自医生的主观意识影响，让实验更加客观公正。
+```
+
+####4.[微软「火力全开」，一口气发布了5款新品](http://www.geekpark.net/topics/213572)
+
++ Hololens:AR + VR  
++ Microsoft Band:二代，Microsoft Band 二代搭载了 GPS、UV 检测、气压计等多达 11 个不同类别传感器（上代为 10 个），可以全方位监测身体的各项指标。  
++ Surface Pro 4:我的对手是 Macbook Air」。售价 899 美金起（约 5708 元）。
++ Surface Book:「正统的」微软笔记本。
++ 新款 Lumia 手机:运行 Windows 10 mobile 操作系统。
+
+####5.[Google](http://www.google.com) 上市主体正式更名为 [Alphabet](http://abc.xyz)
+
+Alphabet:字母表的意思。新的Alphabet公司的业务如下：
+
+
+备注：由于 www.alphabet.com 这个域名被宝马公司持有，Alphabet公司只能注册 abc.xyz域名为公司域名，另有消息称其还购买了 [www.abcdefghijklmnopqrstuvwxyz.com](www.abcdefghijklmnopqrstuvwxyz.com)作为备用。
+
+####6.[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+
+Elon Musk:这个在IT界有着「钢铁侠」称号的男人，绝对是乔布斯之后最酷的一个人！来看看他做了些什么：
+
+1.[Zip2](http://www.citysearch.com/world)
+2.[Paypal](https://www.paypal.com)
+3.[Solar City](http://www.solarcity.com)
+4.[Tesla](http://www.Tesla.com)
+5.[Hyperloop](http://www.spacex.com/hyperloop)
+6.[SpaceX](http://www.spaceX.com)
+
+***
+
 ### #3 2015-09-19(Sat)
 
 ***
