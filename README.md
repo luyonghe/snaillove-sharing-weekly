@@ -52,6 +52,7 @@ This is the weekly sharing in the company.
 
 Alphabet:字母表的意思。新的Alphabet公司的业务如下：
 
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/Alphabet-company-composition.png)
 
 备注：由于 www.alphabet.com 这个域名被宝马公司持有，Alphabet公司只能注册 abc.xyz域名为公司域名，另有消息称其还购买了 [www.abcdefghijklmnopqrstuvwxyz.com](www.abcdefghijklmnopqrstuvwxyz.com)作为备用。
 
@@ -59,12 +60,31 @@ Alphabet:字母表的意思。新的Alphabet公司的业务如下：
 
 Elon Musk:这个在IT界有着「钢铁侠」称号的男人，绝对是乔布斯之后最酷的一个人！来看看他做了些什么：
 
+Words are cheap,show you the pictures!
+
 1.[Zip2](http://www.citysearch.com/world)
+
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/Citysearch.png)
+
 2.[Paypal](https://www.paypal.com)
+
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/PayPal.png)
+
 3.[Solar City](http://www.solarcity.com)
+
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/SolarCity.png)
+
 4.[Tesla](http://www.Tesla.com)
+
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/Tesla.png)
+
 5.[Hyperloop](http://www.spacex.com/hyperloop)
+
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/Hyperloop.png)
+
 6.[SpaceX](http://www.spaceX.com)
+
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/spaceX.png)
 
 ***
 
