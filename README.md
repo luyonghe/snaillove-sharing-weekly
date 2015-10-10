@@ -5,6 +5,8 @@ This is the weekly sharing in the company.
 
 ***
 
+[@ifeegoo](http://github.com/ifeegoo)
+
 ####1.苹果两款产品入华：
 
 [Apple Music](http://www.apple.com/cn/music)  
