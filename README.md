@@ -48,11 +48,15 @@ Dribbble：设计师界的 Github。当然也非常适合那些想要写那些�
 
 看看他们现在的产品：
 
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/royole.png)
+
 [柔性屏幕概念视频：未来比想象美好！](http://v.qq.com/page/r/s/r/r0123iljgsr.html)
 
 #### 7.[APP推荐：声色](http://36kr.com/p/5038381.html)
 
 声色：这是一个关于生僻字为主题的APP，看看它搞的什么鬼？
+
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/app-shengse.png)
 
 #### 8.《开司》
 
@@ -66,7 +70,7 @@ Dribbble：设计师界的 Github。当然也非常适合那些想要写那些�
 
 ***
 
-[misparking](http://github.com/misparking)
+[@misparking](http://github.com/misparking)
 
 #### 1.劝读书
 
