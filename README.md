@@ -17,7 +17,7 @@ This is the weekly sharing in the company.
 
 新款键盘：全新的外观设计。可充电。
 
-新款触控板：全新的外观设备。支持 Force Touch.
+新款触控板：全新的外观设备。支持 Force Touch。
 
 #### 3.[苹果iMac全部配备Retina显示屏](http://tech.qq.com/a/20151013/069500.htm)
 
@@ -48,7 +48,7 @@ Dribbble：设计师界的 Github。当然也非常适合那些想要写那些�
 
 看看他们现在的产品：
 
-![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/royole.png)
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/royole.jpg)
 
 [柔性屏幕概念视频：未来比想象美好！](http://v.qq.com/page/r/s/r/r0123iljgsr.html)
 
@@ -56,7 +56,7 @@ Dribbble：设计师界的 Github。当然也非常适合那些想要写那些�
 
 声色：这是一个关于生僻字为主题的APP，看看它搞的什么鬼？
 
-![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/app-shengse.png)
+![](https://raw.githubusercontent.com/SnailLove/snaillove-weekly-sharing/master/resources/pictures/app-shengse.jpg)
 
 #### 8.《开司》
 
