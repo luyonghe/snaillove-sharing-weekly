@@ -1,6 +1,54 @@
 # snaillove-weekly-share
 This is the weekly sharing in the company.
 
+### #6 2015-10-24(Sat)
+
+***
+
+[@ifeegoo](http://github.com/ifeegoo)
+
+#### 1.[耐克自动系鞋带运动鞋](http://tech.qq.com/a/20151023/011762.htm)
+
+想象一下，你的脚放入鞋中，鞋带自动的系上。是不是有点小酷，这样的鞋，要不要来一双？
+
+#### 2.[跟着贝尔去冒险](http://www.iqiyi.com/w_19rtjbnlcx.html)
+
+大家都知道贝爷吧，一个站在食物链顶端的男人。现在他要带领：张钧甯、谢天华、张丹峰、大张伟、吴倩、白敬亭、韩雪、刘语熙、荒野求生！想要看他们生吃活蚯蚓的样子吗？嘿嘿。
+
+#### 3.[5.11 Tactical](http://www.511tactical.com/)
+
+有没有注意到最近习大大打的那把伞？要不要搞一把？:smile:
+
+![](http://y3.ifengimg.com/a/2015_43/5fc60f87cb757f4.jpg)
+
+#### 4.[程序员节](http://baike.baidu.com/view/4367098.htm)
+
+程序员节是什么鬼？现在越来越多的中国程序员呼吁10.24作为中国程序员的节日，你觉得如何？
+
+#### 5.[Ada Lovelace](http://baike.baidu.com/view/10960576.htm)
+
+知不知道这位美女？
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/220px-Ada_Lovelace_portrait.jpg)
+
+美国花费十几年研究的适用于军方的计算机编程语言，就是以她的名字命名。号称世界上最强大的反编译软件，没有之一的IDA Pro，就是用她的头像做的Logo。她的父亲是英国的大诗人拜伦。怎么样？还不赶快了解一下她？
+
+#### 6.[Hacker News](https://news.ycombinator.com/)
+
+科技工作者需要关注的网站。
+
+#### 7.[关于ID和URL的强迫症](http://blog.vrypan.net/2013/11/08/why-i-wont-use-a-gplus-custom-url/)
+
+你有没有自己专属的网络ID，是不是一定要每一个网站的ID都保持一致，不能让你自定义ID，是不是就不舒服，是不是就不想用？看到这种URL：
+
+https://plus.google.com/u/0/106649334741002817472
+
+是不是觉得抓狂？恭喜你，你有ID和URL的强迫症，不用担心，你不是一个人！来看下这些人的说法：
+
+[https://news.ycombinator.com/item?id=6698821](https://news.ycombinator.com/item?id=6698821)
+
+***
+
 ### #5 2015-10-17(Sat)
 
 ***
