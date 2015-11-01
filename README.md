@@ -1,7 +1,7 @@
 # snaillove-weekly-share
 This is the weekly sharing in the company.
 
-### #6 2015-10-31(Sat)
+### #7 2015-10-31(Sat)
 
 ***
 
@@ -51,9 +51,79 @@ magic leap：Google重金投资的MR公司，来看看他们将要做的令人�
 
 看到上面这段话，是不是觉得这是一句简单的英文句子。但是它是最短的一句包含全部26个英文字母的有意义的句子。大家所能够见到的是在字体文件中。
 
-![](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog#/media/File:Kfontview.png)
+![](https://upload.wikimedia.org/wikipedia/commons/6/65/Kfontview.png)
+
+#### 4.密码管理问题
+
+现在网络是非常的不安全，自己的各大网站的密码很有可能就被别人盗取。如果你所有的账号都用同一个邮件/ID注册的话，一旦你的一个网站的密码被别人盗取的话，其他的可能都会被别人盗取。大家可以在“社工库”网站上查询自己的曾经的密码是否有被泄漏。也推荐大家自己建立一套自己的密码管理系统。每一个网站的密码都是不一样的，但是你看到这个网站，你就会知道是哪个密码。  
+社工库网站举例：[]()
+
+#### 5.[64k Intro](http://blog.csdn.net/shifuwawa/article/details/4643689)
+
+每年世界上会有64k Intro[64k大小的动画]的比赛。64k动画：只有64k大小的文件，播放出来的动画。有的狂拽酷炫，有的可以播放一两个小时。基本上是通过汇编语言操作显卡实时渲染出来的动画。
+视频举例：[http://v.youku.com/v_show/id_XMTI2MDkyOTg0MA==.html](http://v.youku.com/v_show/id_XMTI2MDkyOTg0MA==.html)
 
 ***
+
+[@misparking](http://github.com/misparking)
+
+#### 1.[原来我们看到的地图错得离谱?](http://dy.qq.com/article.htm?id=20151028A0237R00)
+
+世界地图我们都看过，但是我们有怀疑过他上面标注的尺寸是否靠谱吗？其实有些地方不是你想象的那样子的。  
+[网上曝光常用世界地图“错得离谱” 专家反驳(图)](http://www.ahfeixi.com/article-179622-1.html)
+
+#### 2.[坚果影视](http://www.jmgo.com/index.html)
+
+想要一款背包里的电影院产品吗？来看看这个被任泉、李冰冰、黄晓明等明星投资的产品吧。
+
+#### 3.[无人驾驶技术现状](http://www.bilibili.com/video/av2525904/)
+
+无人驾驶技术一直被热捧，但是究竟什么时候，才能够“上线”呢？
+
+***
+
+@[chenyunxuan](http://github.com/chenyunxuan)
+
+#### 1.[有道云笔记小技巧](http://note.youdao.com/web-clipper-chrome.html)
+
+如何更好的保存网络书签，这是一个好的问题。看看有道云笔记如何帮助你。
+
+#### 2.推荐两个微信公众账号。
+
+名称：科技美学  
+ID：kejimx  
+说明：「科技美学」是移动端第一科技新媒体,那岩 每天用语音为你解读前沿科技。  
+点评：独立公正的第三方科技测评。
+
+名称：e袋洗  
+ID：ewashing  
+说明：专业、便捷、高性价比的的洗衣品牌，手机下单，取送到家。  
+点评：对于想要洗鞋子的我来说，是一个不错的服务！
+
+***
+
+@木昜景页
+
+#### 1.[枯燥无味的心理学](http://read.douban.com/reader/ebook/2190088/)
+
+大家都喜欢谈论心理学，但是心理学是你想象的那么有趣，那么神奇吗？
+
+#### 2.[汉尼拔](http://baike.baidu.com/subview/18508/10356387.htm)
+
+《汉尼拔》（Hannibal）是由美国NBC电视台根据自托马斯·哈里斯经典小说《红龙》改编。由布莱恩·福勒主创，麦德斯·米科尔森、休·丹西主。
+讲述了FBI特别探员威尔·格雷厄姆以及表面上是优雅心理医生，实际上是食人魔连环杀人犯的汉尼拔·莱科特博士的故事。他们的关系从一开始的亲近到后来的微妙、疏离，着实令人胆寒[1]  。
+
+***
+
+@shuyao
+
+#### 1.[magic leap/ 3D纹身](http://mp.weixin.qq.com/s?__biz=MjM1ODIzNTU2MQ==&mid=401153834&idx=1&sn=ff8f0e9afb6248d347a78a8bd0304152&scene=1&srcid=1029j0wKK0SqJ57ZvNDytUFZ&from=singlemessage&isappinstalled=0#wechat_redirect)
+
+本文中提到的 magic leap 的MR视频，在@ifeegoo本期分享的内容中也有这个。另外这个3D动态纹身是相当酷炫的，大家赶紧一睹为快！
+
+***
+
+
 
 ### #6 2015-10-24(Sat)
 
