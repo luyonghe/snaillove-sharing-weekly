@@ -18,30 +18,37 @@ Polaroid Socialmatic：长得像Instagram Logo的相机。
 
 2° [Skarp](http://www.leiphone.com/news/201510/hyNQsndk8PGCANj8.html)  
 Skarp：号称全球第一款激光剃须刀，而它引发的史上最大众筹撕逼大战。  
-Indiegogo：[https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving](https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving)
+Indiegogo：[https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving](https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving)  
+![](http://7te8bu.com1.z0.glb.clouddn.com/uploads/new/article/740_740/201510/562a6e5f8b718.png)
 
 3° [手指一指，灯泡亮起](http://www.leiphone.com/news/201510/ZQldKz8ZF5483fhL.html)  
-用手势控制灯泡，像魔法一样神奇。其实你也可以做到，还不赶紧来看看是什么鬼？
+用手势控制灯泡，像魔法一样神奇。其实你也可以做到，还不赶紧来看看是什么鬼？  
+![](http://7te8bu.com1.z0.glb.clouddn.com/uploads/new/article/740_740/201510/562d96ce776f4.gif)
 
 4° [ZipChip](http://www.leiphone.com/news/201510/7Z8Rutxb55CLXK40.html)  
 ZipChip：这是一款飞碟玩具，看起来还是很酷的。  
-Kickstarter：[https://www.kickstarter.com/projects/214846388/zipchip-the-new-way-to-play](https://www.kickstarter.com/projects/214846388/zipchip-the-new-way-to-play)
+Kickstarter：[https://www.kickstarter.com/projects/214846388/zipchip-the-new-way-to-play](https://www.kickstarter.com/projects/214846388/zipchip-the-new-way-to-play)  
+![](http://7te8bu.com1.z0.glb.clouddn.com/uploads/new/article/740_740/201510/5625e9dd81313.png)
 
 5° [NFC Ring](http://36kr.com/p/5038828.html)  
-想不想拥有一个魔戒？
+想不想拥有一个魔戒？  
+![](http://a.36krcnd.com/nil_class/76263497-4fe4-4d6a-960a-3e7bbe87b9a9/69da3534a67d21f65292905aa08fbf17_original.gif)
 
 6° [Hoverboard](http://36kr.com/p/5038988.html)  
 看过电影《回到未来》里面的高科技了吗？现在磁悬浮滑板已经问世了，还不赶紧来瞧瞧？  
-Kickstarter：[https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard](https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard)  
+Kickstarter：[https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard](https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard) 
+![](http://a.36krcnd.com/nil_class/16e0f319-fbf7-4e2f-9135-3adc87897e03/1.jpg)
 
 7° [OpenROV](http://36kr.com/p/5039113.html)  
 OpenROV：帮你探索水下世界的机器人！  
 Kickstarter：[https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone](https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone)
 官网：[http://openrov.com/](http://openrov.com/)  
-Github：[https://github.com/OpenROV](https://github.com/OpenROV)
+Github：[https://github.com/OpenROV](https://github.com/OpenROV)  
+![](http://e.36krcnd.com/nil_class/05de983a-fbdf-4bc7-8be0-a32ef04bb97d/8105e5ee3abf271df36c1bddbdd43903_original.png!heading)
 
 8° [magic Leap](http://www.ifanr.com/575230)  
 magic leap：Google重金投资的MR公司，来看看他们将要做的令人惊讶的内容吧。
+![](http://images.ifanr.cn/wp-content/uploads/2015/10/64f1122c5adb09a87d35f86cab7b18c1.gifheading.gif)
 
 #### 2.[Splittable](http://36kr.com/p/5039085.html)  
 
