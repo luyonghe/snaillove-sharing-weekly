@@ -32,12 +32,12 @@ Kickstarter：[https://www.kickstarter.com/projects/214846388/zipchip-the-new-wa
 
 5° [NFC Ring](http://36kr.com/p/5038828.html)  
 想不想拥有一个魔戒？  
-![](http://a.36krcnd.com/nil_class/76263497-4fe4-4d6a-960a-3e7bbe87b9a9/69da3534a67d21f65292905aa08fbf17_original.gif)
+![](http://img1.cache.netease.com/catchpic/6/68/683C1DE3F581999E4322A3540223E24D.jpg)
 
 6° [Hoverboard](http://36kr.com/p/5038988.html)  
 看过电影《回到未来》里面的高科技了吗？现在磁悬浮滑板已经问世了，还不赶紧来瞧瞧？  
 Kickstarter：[https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard](https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard) 
-![](http://a.36krcnd.com/nil_class/16e0f319-fbf7-4e2f-9135-3adc87897e03/1.jpg)
+![](https://ksr-ugc.imgix.net/projects/1415522/photo-original.jpg?v=1413688992&w=1536&h=1152&fit=crop&auto=format&q=92&s=1d25ba69864f0973bbc462bada38fcc7)
 
 7° [OpenROV](http://36kr.com/p/5039113.html)  
 OpenROV：帮你探索水下世界的机器人！  
