@@ -83,7 +83,9 @@ magic leap：Google重金投资的MR公司，来看看他们将要做的令人�
 
 想要一款背包里的电影院产品吗？来看看这个被任泉、李冰冰、黄晓明等明星投资的产品吧。
 
-#### 3.[无人驾驶技术现状](http://www.bilibili.com/video/av2525904/)
+#### 3.无人驾驶技术现状
+[视频](http://www.bilibili.com/video/av2525904/)
+[图文](http://www.100tmt.com/news/news_3581.shtml)
 
 无人驾驶技术一直被热捧，但是究竟什么时候，才能够“上线”呢？
 
