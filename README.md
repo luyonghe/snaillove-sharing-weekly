@@ -4,7 +4,7 @@ This is the weekly sharing in the company.
 
 ***
 
-[@misparking][http://github.com/misparking]
+[@misparking](http://github.com/misparking)
 
 ### 1.[大数据告诉你，电商会把假货发给谁？](http://tech.qianlong.com/2015/1112/87940.shtml)
 内幕：你在网上买件大牌化妆品，在订单提交→发货之前，系统会查询分析你在全平台的购物数据(大数据内部共享)：购买均价，常购品牌，退货率。
