@@ -1,5 +1,28 @@
 # snaillove-weekly-share
 This is the weekly sharing in the company.
+### #8 2015-11-15(Sun)
+
+***
+
+[@misparking][http://github.com/misparking]
+
+### 1.[大数据告诉你，电商会把假货发给谁？](http://tech.qianlong.com/2015/1112/87940.shtml)
+内幕：你在网上买件大牌化妆品，在订单提交→发货之前，系统会查询分析你在全平台的购物数据(大数据内部共享)：购买均价，常购品牌，退货率。
+
+### 2.[手机让人变得冷漠？](http://tech2ipo.com/10020545)
+有人认为：技术发展，尤其是智能手机的出现，已经破坏了我们原有的社会交往方式，人们彼此不再紧密联系在一起，取而代之的是花费大量时间与我们的每一个电子设备互动。
+可能以上文字讲出了你的心声，不过你所看到的不一定就是事实。
+
+### 3.[全自动停车场](http://mt.sohu.com/20150427/n411971682.shtml)
+[相关报道视频](http://www.iqiyi.com/w_19rs2zcgq5.html)
+寻找停车位一直是现代都市人最头疼的事情，怎样做到既节省空间又能保证停车安全呢，德国朋友给我们做出了范例。
+
+### 4.奥巴马FaceBook和Twiter
+[FaceBooke](https://www.facebook.com/potus/?fref=ts)
+[Twiter](https://twitter.com/WhiteHouse)
+继2015年五月份开设了个人 Twitter 账号，奥巴马总统在11月份正式开通个人Facebook,他的 Facebook 时间线上记载了他的自传，上面有从 1992 年他与米歇尔夫人结婚直到他 2009 年成为第 44 位美国总统的宣誓仪式的照片。比起近期照片，老照片吸引了更多的赞和评论。
+
+***
 
 ### #7 2015-10-31(Sat)
 
