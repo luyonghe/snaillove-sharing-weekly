@@ -23,6 +23,11 @@ This is the weekly sharing in the company.
 继2015年五月份开设了个人 Twitter 账号，奥巴马总统在11月份正式开通个人Facebook,他的 Facebook 时间线上记载了他的自传，上面有从 1992 年他与米歇尔夫人结婚直到他 2009 年成为第 44 位美国总统的宣誓仪式的照片。比起近期照片，老照片吸引了更多的赞和评论。
 
 ***
+[@arrfu](https://github.com/arrfu)
+### 1.[四轴飞行器灵活的运动性能](http://v.youku.com/v_show/id_XNzMyNjc2NjAw.html)
+在TEDGlobal的机器人试验室里,拉菲洛·安德烈展示了如运动员一般思考的四轴飞行器,四轴飞行器能根据被输入的运算法则灵活解决...
+
+***
 
 ### #7 2015-10-31(Sat)
 
