@@ -59,7 +59,7 @@ This is the weekly sharing in the company.
 [相关报道视频](http://www.iqiyi.com/w_19rs2zcgq5.html)
 寻找停车位一直是现代都市人最头疼的事情，怎样做到既节省空间又能保证停车安全呢，德国朋友给我们做出了范例。
 
-### 4.奥巴马的[FaceBooke](https://www.facebook.com/potus/?fref=ts)和[Twiter](https://twitter.com/WhiteHouse)
+### 4.奥巴马的[Facebook](https://www.facebook.com/potus/?fref=ts)和[Twitter](https://twitter.com/WhiteHouse)
 继2015年五月份开设了个人 Twitter 账号，奥巴马总统在11月份正式开通个人Facebook,他的 Facebook 时间线上记载了他的自传，上面有从 1992 年他与米歇尔夫人结婚直到他 2009 年成为第 44 位美国总统的宣誓仪式的照片。比起近期照片，老照片吸引了更多的赞和评论。
 
 ***
