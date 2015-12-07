@@ -2,6 +2,33 @@
 This is the weekly sharing in the company.
 
 ### #9 2015-12-05(Sat)
+
+***
+
+[@subvin](http://github.com/subvin)
+
+苗族出身的帅小伙，分享你所不知道的一些关于苗族的奇闻异事。
+
+***
+
+@木昜景页
+
+### 1.[如何实现一份设计稿支持多个尺寸并支持iPhone 6 / 6 plus](http://mp.weixin.qq.com/s?__biz=MzA4NDI5MjI5Nw==&mid=401149029&idx=1&sn=4734ca2ba3850bc0c8dbac48f4ce6da6&scene=0#wechat_redirect)
+
+不管是Android，还是iOS，适配的确都是一个问题。
+
+***
+
+[@arrfu](http://github.com/arrfu)
+
+### 1.[生活小技能](http://toutiao.com/i6211655782518653442/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=mobile_qq&iid=3312691405&utm_medium=toutiao_android)
+
+这里有你生活中没有留意到，可能让你眼前一亮的生活小技能。
+
+### 2.[五个魔术般的火焰实验](http://url.cn/kSKNZ0)
+
+还记得以前上化学课，做的实验吗？我们来看看更加诡异的火焰实验。
+
 ***
 
 [@misparking](http://github.com/misparking)
