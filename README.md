@@ -1,5 +1,5 @@
 # snaillove-sharing-weekly
-This is the weekly sharing in the company.
+This is the sharing weeklyin the company.
 
 ### #9 2015-12-05(Sat)
 
