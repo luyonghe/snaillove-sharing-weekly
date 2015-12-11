@@ -1,4 +1,4 @@
-# snaillove-weekly-share
+# snaillove-sharing-weekly
 This is the weekly sharing in the company.
 
 ### #9 2015-12-05(Sat)
