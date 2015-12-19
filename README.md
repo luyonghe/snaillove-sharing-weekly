@@ -22,6 +22,29 @@ This is the sharing weeklyin the company.
 
 ***
 
+[@misparking](http://github.com/misparking)
+
+1.[智能迷你花园](http://www.leikeji.com/article/4090)
+
+能想象下，在家里房间中整一个迷你花园，这是一种怎样的感觉？
+
+2.[高逸峰《从头再来》](http://v.youku.com/v_show/id_XNDM1MTA2Njky.html?from=y1.2-1-86.3.3-2.1-1-1-2-0)
+
+只不过是从头再来，如果是你，有这样的豪迈气质否？
+
+***
+
+[@chenyunxuan](http://github.com/chenyunxuan)
+
+1.[超强执行力](http://www.wandoujia.com/eyepetizer/detail.html?vid=1806)
+
+你的执行力强吗？有他强吗？
+
+2.[强迫症的理想归属](http://www.wandoujia.com/eyepetizer/detail.html?vid=1860)
+
+现代社会，每个人或多或少的都有些强迫症，但是如果是一个严重的强迫症患者，该如何是好呢？
+
+***
 ### #9 2015-12-05(Sat)
 
 ***
