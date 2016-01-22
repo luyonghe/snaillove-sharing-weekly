@@ -1,6 +1,39 @@
 # snaillove-sharing-weekly
 This is the sharing weeklyin the company.
 
+### #9 2016-01-16(Sat)
+
+***
+[@chenyunxuan](http://github.com/chenyunxuan)
+
+1.[让你的每个屏幕上都有一颗美丽的地球 | 馒头地球 & Earth Live](http://www.tuicool.com/articles/riYJRfA)
+
+想不想在你的手机、平板、电脑上实时查看地球的状态？赶紧来试试吧。
+
+2.[了不起的挑战：啥？让我穿裙子！](http://www.wandoujia.com/eyepetizer/detail.html?vid=4816)
+
+这只是一个广告，但是你看出来了这是个什么广告吗？
+
+***
+
+@Holson 
+
+1.[怎样快速有效地分辨出值得追和果断弃的日剧？](https://www.zhihu.com/question/39414582/answer/81687774)
+
+大家关注美剧比较多，但是有了解过日剧吗？这篇让你进一步了解日剧。
+
+***
+
+[@arrfu](http://github.com/arrfu)
+
+1.[搞笑剪辑：神人居然这样演绎“仙剑奇侠传我彻底醉了”](http://url.cn/ds80WU)
+
+你懂的。
+
+2.[推荐二十七部近让你憋着尿看完的电影](http://url.cn/YqDycS)
+
+值得你细细品味的电影！
+
 ### #9 2015-12-19(Sat)
 
 ***
