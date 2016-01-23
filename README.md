@@ -1,7 +1,45 @@
 # snaillove-sharing-weekly
 This is the sharing weeklyin the company.
 
-### #9 2016-01-16(Sat)
+### #11 2016-01-23(Sat)
+
+***
+@Holson
+
+1.[有哪些相貌平凡的人穿出衣服品味的例子？](https://www.zhihu.com/question/27936753/answer/81327730)
+
+真的是人靠衣装，美靠靓妆。程序猿们一定要好好学习了！
+***
+
+[@arrfu](http://github.com/arrfu)
+
+1.[2015牛人完美瞬间大合集](http://url.cn/2FDtyu0)
+
+2015年牛人行为大放送！看得人手心直冒汗！
+
+***
+
+[@ifeegoo](http://github.com/ifeegoo)
+
+1.[博客思听中文有声书摘](http://www.bookast.com/)
+
+换一种方式看书，真的很不错！
+
+2.[2015华语电影泪奔混剪《十字路口》](http://mp.weixin.qq.com/s?__biz=MzIyNzA2MjcyOQ==&mid=401679600&idx=3&sn=141bd3190dbb1eae1e2d28d7157db03e&scene=2&srcid=0117V8A48A80haDT3a1mKAa6#wechat_redirect)
+
+非常不错混剪，电影的片段重新组合成了一个完整的故事，关于爱情，关于家庭，关于理想，关于每一次选择。
+
+3.[心灵魔术师 Derren Brown](https://www.zhihu.com/question/39408533/answer/81594114)
+
+现场直播俄罗斯轮盘赌，彩票预测中奖！
+
+4.[徒手攀岩大师 Alex Honnold](https://www.zhihu.com/question/39408533/answer/82907604)
+
+Free Solo Climbing：无辅助、无保护、单人徒手攀岩。被称为十大极限运动之首，死亡率超过50%！
+
+***
+
+### #10 2016-01-16(Sat)
 
 ***
 [@chenyunxuan](http://github.com/chenyunxuan)
