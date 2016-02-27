@@ -32,6 +32,15 @@ This is the sharing weeklyin the company.
 
 7.[华为发布首款笔记本电脑MateBook](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=405805928&idx=1&sn=798c770573f8411e358f6b9609333c95&scene=0&key=710a5d99946419d92b826dedd2fb9c670114bfd1820adb323193904ec83bc789b2cd8ac851c48446bc090f5ff41d6b07&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=50TQcgJf4akWNofh6tTNJ8O68KeRv9ks1fEsXS4BvGPrsr51fZiNT%2Bn36WDLsGYm)
 
+华为已经开始进军笔记本行业了。
+
+8.[新型混合运动：足球高尔夫](http://jandan.net/2013/04/26/footgolf.html)
+
+足球和高尔夫的结合。
+
+9.[新型混合运动：乒乓足球](http://v.youku.com/v_show/id_XMTQ2NDAzMzY1Mg==.html?from=s1.8-1-1.2)
+
+像打乒乓球一样打足球。
 ***
 
 
