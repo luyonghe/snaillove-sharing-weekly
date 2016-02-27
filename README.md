@@ -1,6 +1,40 @@
 # snaillove-sharing-weekly
 This is the sharing weeklyin the company.
 
+### #13 2016-02-27(Sat)
+
+***
+@[ifeegoo](http://github.com/ifeegoo)
+
+1.[懒人癌的福音之椅子](https://mp.weixin.qq.com/s?__biz=MzA5NjM2MTEzNw==&mid=402673978&idx=1&sn=bdab3d18462221658f652a0a30ef4c44&scene=0&key=710a5d99946419d9a6833e20da47f282cb9f08d0bbd30e4b3a4a4797a57ae3e9a4afd7e9a41b30770ec29d256804f529&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=50TQcgJf4akWNofh6tTNJ8O68KeRv9ks1fEsXS4BvGPrsr51fZiNT%2Bn36WDLsGYm)
+
+开完会之后，你是否有手动将椅子归还到原处？
+
+2.[电气行业的"强迫症"](https://mp.weixin.qq.com/s?__biz=MzA5NTgwNzkxMQ==&mid=485113704&idx=4&sn=487cdc66ba36ebde10f1b0c510ab07b1&scene=2&srcid=0222MZhVQbdHDD1rfpFHfrVY&key=710a5d99946419d9f07c82e7ff69e56f1346212bce29aee3ff84069502d6b8c504867db3a41724544c4006b842b0339d&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=50TQcgJf4akWNofh6tTNJ8O68KeRv9ks1fEsXS4BvGPrsr51fZiNT%2Bn36WDLsGYm)
+
+你看过这么美的布线吗？
+
+3.[如何挣脱电缆扎带？](http://v.youku.com/v_show/id_XNzA0NjQ2MzA0.html?from=s1.8-1-1.2)
+
+有没有看到那些电影或者现实中用来捆绑人手脚的扎带？这个就是电气行业常用的电缆扎带。
+
+4.[德国小人国](https://mp.weixin.qq.com/s?__biz=MjM5NjAwMjEwMA==&mid=405460706&idx=1&sn=a103fb604021de02781182a43f8e181d&scene=0&key=710a5d99946419d990448906a65e877a8b33ee9c650f802eaa37ae9a64dd6cabfc9a1473dbb8083917bb59aa7c48af9d&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=50TQcgJf4akWNofh6tTNJ8O68KeRv9ks1fEsXS4BvGPrsr51fZiNT%2Bn36WDLsGYm)
+
+一对德国的双胞胎花了15年2000万人民币打造的这样一个“小人国”，赶紧去看看！
+
+5.[从87.5kg故意吃成122kg，再减回86.3kg…美国网红告诉你减肥真的很难！](https://mp.weixin.qq.com/s?__biz=MjM5OTY1MDMxMg==&mid=401798221&idx=1&sn=5f3551d27f33862e14a7ecdfa97bbc74&scene=0&key=710a5d99946419d978099268c5b636c73046644248821a3b3e7c95e0ea8a0c210cc222fa8ef4d1bdc299450ff15fdd7f&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=50TQcgJf4akWNofh6tTNJ8O68KeRv9ks1fEsXS4BvGPrsr51fZiNT%2Bn36WDLsGYm)
+
+你要不要试一试？
+
+6.[世界历史动态地图](http://h5.qzone.qq.com/ugc/share?ticket=&subtype=0&srctype=&sk=&blog_photo=0&appid=311&ciphertext=43699A39C08B8F009730A2D67C08473528DB07E502BD43DD7E500100E8AA8AECEED06847ACA974C0D356595A28D5792C47AE3D5BC546868F52A9A3A09B9D6E2A&g_f=&_wv=1&from=timeline&isappinstalled=0)
+
+这个视频，一定会震撼到你！
+
+7.[华为发布首款笔记本电脑MateBook](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=405805928&idx=1&sn=798c770573f8411e358f6b9609333c95&scene=0&key=710a5d99946419d92b826dedd2fb9c670114bfd1820adb323193904ec83bc789b2cd8ac851c48446bc090f5ff41d6b07&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=50TQcgJf4akWNofh6tTNJ8O68KeRv9ks1fEsXS4BvGPrsr51fZiNT%2Bn36WDLsGYm)
+
+***
+
+
 ### #11 2016-01-23(Sat)
 
 ***
