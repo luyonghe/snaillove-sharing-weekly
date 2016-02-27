@@ -43,6 +43,33 @@ This is the weekly sharing in the company.
 像打乒乓球一样打足球。
 ***
 
+### #13 2016-02-27(Sat)
+
+***
+
+1.[@ifeegoo](http://github.com/ifeegoo)
+
+1.[iOS设备的系统时间bug](http://www.pingwest.com/fools-guide-to-iphone-1970-brick-bug/)
+
+将iOS设备设置成1970之前的时间，就会变砖。
+
+2.[天气太冷！ iPhone 手机就这样默默地自动关机了](http://www.pingwest.com/apple-iphone-winter-shutdown/)
+
+为什么天气太冷，iOS 设备为什么电池有问题？
+
+3.[移动 App 有哪些优秀的、令人难忘的引导页设计？](https://www.zhihu.com/question/25684387)
+
+引导页对于一个APP来说，可有，可无。
+
+4.[微软幻想中的 NFL，和现实中 NFL 之间的区别……](http://www.pingwest.com/microsoft-nfl-hololens-surface/)
+
+又一款看起来叼炸天的虚拟现实应用场景。
+
+5.[我们的精神角落](http://v.youku.com/v_show/id_XMTQ3MTc2MTg2MA==.html)
+
+豆瓣首支广告。
+
+***
 
 ### #11 2016-01-23(Sat)
 
