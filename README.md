@@ -1,6 +1,48 @@
 # snaillove-sharing-weekly
 This is the weekly sharing in the company.
 
+### #14 2016-03-05(Sat)
+
+***
+[@misparking](http://github.com/misparking)
+
+1.[GIPHY](http://giphy.com/)
+
+关于动态图片的搜索引擎，哪些喜欢发动态图的同学们，有福了！
+
+***
+[@ifeegoo](http://www.ifeegoo.com)
+
+1.[哪些令人印象深刻的特殊的艺术品或艺术形式？](https://www.zhihu.com/question/29635624/answer/88511044)
+
+可爱的卡通食物，盐画，剪纸服饰，绘鱼，理发画，海底兵马俑，要不要一窥究竟？
+
+2.[Color Run](http://www.thecolorrun.com.cn/)
+
+彩色跑，要不要搞一把？
+
+3.[TIFO](https://www.youtube.com/watch?v=cXIBYpqvdsw)
+
+喜欢看足球的同学，一定看过球场上巨大的横幅，这有一个专门的名字，叫做TIFO。
+
+4.[泰国的感人广告](https://www.zhihu.com/question/19869078)
+
+泰国的广告，尤其是感人的广告，这些年来比较火。大家可以关注下。
+
+[实例1](http://mp.weixin.qq.com/s?__biz=MzIwMzE0ODMwMA==&mid=401528821&idx=3&sn=6552348cd4d79bb4ab19182d6d5791d9&scene=0#wechat_redirect)
+
+[实例2](https://mp.weixin.qq.com/s?__biz=MzA5OTM0MzU5Mg==&mid=402847629&idx=4&sn=7e3d0621e836b722964731b7071044e4&scene=1&srcid=0304l483r2JfMl4B8Gv19sD6&key=710a5d99946419d9b799a4a74121d6c2707584b253a6ccf3bf15ea0031877d8b47b6d578a0bd413be6bf4a8363ebb9dd&ascene=0&)
+
+***
+
+[@chenyunxuan](http://github.com/chenyunxuan)
+
+1.[泡泡跑](http://www.bubblerun.com/)
+
+在满是泡泡的路上跑步是怎样的一种感觉？
+
+***
+
 ### #13 2016-02-27(Sat)
 
 ***
