@@ -8,9 +8,11 @@ This is the weekly sharing in the company.
 可见光无线通信又称“光保真技术”，英文名LightFidelity（简称LiFi）是一种利用可见光波谱(如灯泡发出的光)进行数据传输的全新无线传输技术，由英国爱丁堡大学电子通信学院移动通信系主席、德国物理学家HaraldHass（哈拉尔德·哈斯)教授发明。
 LiFi是运用已铺设好的设备(无处不在的LED灯)，通过在灯泡上植入一个微小的芯片形成类似于AP(WiFi热点)的设备，使终端随时能接入网络。该技术通过改变房间照明光线的闪烁频率进行数据传输，只要在室内开启电灯，无需WiFi也便可接入互联网。    有一个TED的视频：[Li-Fi网络传输技术-详细介绍](http://v.qq.com/boke/page/f/0/9/f0186kxf2y9.html)
 
-2.[怎样用互联网思维追到女神？](http://www.niaogebiji.com/article-9961-1.html)
+2.[怎样用互联网思维追到女神？](http://www.niaogebiji.com/article-9961-1.html)  
+结合互联网思维，择偶模式就像做产品，一个黄金公式通用，即G=M*R*T。
 
-3.[揭秘阿里巴巴人力资源体系：牛逼的团队是如何建立的？](http://www.admin5.com/article/20160309/650762.shtml)
+3.[揭秘阿里巴巴人力资源体系：牛逼的团队是如何建立的？](http://www.admin5.com/article/20160309/650762.shtml)  
+1、阿里巴巴是怎么面试的? 2、阿里巴巴闻味官是怎么回事?  3、阿里巴巴职级怎么设置?...
 
 ***
 
