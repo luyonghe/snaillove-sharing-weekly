@@ -1,6 +1,46 @@
 # snaillove-sharing-weekly
 This is the weekly sharing in the company.
 
+### #14 2016-03-12(Sat)
+
+[@chenyunxuan](http://github.com/chenyunxuan)
+
+***
+
+1.[最新免费帆樯神器：灯笼Lantern下载及使用教程](http://www.iyaxi.com/2015-11-17/732.html)
+
+众所周知，在天朝有一个伟大的GFW（防火长城）保护着我们的网络环境，如果你想看看墙那边的风景，就必须想办法翻过去，然而一批批造福网民的软件倒下了，帆樯变得越来越难，然而最近却传来了一个好消息，一款免费强大的帆樯软件——Lantern横空出世。（2016.1.5新增Windows、Mac、Linux、Android四个版本的Lantern蓝灯）
+
+2.[纸飞机](http://www.ishadowsocks.com)
+
+另一款翻墙软件。
+
+3.[Google Map + VR游戏：Ingress](http://www.godeyes.cn/html/2014/12/15/google_earth_15914.html)
+
+想象一下利用街道作为游戏场景？
+
+***
+
+[@JackWaiting](http://github.com/jackwaiting)
+
+1.[除了AlphaGo，谷歌还有这10个黑科技让你震惊](http://mt.sohu.com/20160311/n440109629.shtml)
+
+Google X Lab 各种炸天的项目。
+
+***
+
+@shuyao
+
+1.[吓傻了！这家德国公司的仿生黑科技，即将颠覆自然！](https://mp.weixin.qq.com/s?__biz=MzA5NjIzNjgxNw==&mid=404059437&idx=4&sn=244cf1645a783a8ea809b1cd9544d502&scene=0&key=710a5d99946419d9094f21d0dc15befa7e39eba592eecc6785e4338c34f21c0b2f3e6fe6b9379923dd55efdef770b484&ascene=0&uin=OTg2NTM0ODYx&devicetype=iMac14%2C3+OSX+OSX+10.10.5+build(14F1605)&version=11020201&pass_ticket=2tsPMJs5foOA2T0qqFFim0x2UD2T8%2BJ9WlO6%2FHx3C5CFP8XHzJWoJpybh1jpcSzc)
+
+德国著名气动公司FESTO，各种叼炸天的仿生黑科技。
+
+2.[【学摄影】摄影中的前构图和后构图](https://mp.weixin.qq.com/s?__biz=MzA5NjIzNjgxNw==&mid=404059437&idx=2&sn=3ab9cb25799eaf22db72f37001184161&scene=0&key=710a5d99946419d9d82bbe87d7b0e9f7e6e926a5b5f9019f6ea5948b0780971d319c6f5e1a243bfa98236195c45203a5&ascene=0&uin=OTg2NTM0ODYx&devicetype=iMac14%2C3+OSX+OSX+10.10.5+build(14F1605)&version=11020201&pass_ticket=2tsPMJs5foOA2T0qqFFim0x2UD2T8%2BJ9WlO6%2FHx3C5CFP8XHzJWoJpybh1jpcSzc)
+
+想要拍摄有逼格的照片吗？
+
+***
+
 ### #14 2016-03-05(Sat)
 
 ***
