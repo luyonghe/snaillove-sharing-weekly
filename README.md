@@ -3,9 +3,28 @@ This is the weekly sharing in the company.
 
 ### #14 2016-03-12(Sat)
 
-[@chenyunxuan](http://github.com/chenyunxuan)
+***
+
+[@ifeegoo](http://github.com/ifeegoo)
+
+1.关于跑步
+
+在跑步机上跑步推荐用运动耳机，同时可以听听音乐，但是音乐要注意把握节奏，可以参考的节奏：[推荐的几首歌曲](https://mp.weixin.qq.com/s?__biz=MjM5NzM0NjcwMQ==&mid=402649922&idx=4&sn=e3f841d29810e7d216f32f0aa282877e&scene=1&srcid=0105U0eyAsJ64Ow4UKwQb4Ql&key=710a5d99946419d9c15492e8eeb45724d96e952bcfe43d4b790b4cb805e550f90eab6c829416756d718e86afc2f47bc8&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=uQ6KYW%2F0E0e29kr%2F4M1UvxbBt4uzCbVSkzIZi78Ri3%2F5Tw93XjBvXVXPzYvNq6UZ)，另外我们可以关注一个公众账号：running_guide。
+
+2.[这10个英文句子太魔性了，简直要上天啊！](https://mp.weixin.qq.com/s?__biz=MjM5Njk5NTE2Mg==&mid=406310389&idx=1&sn=a4e8f060bcbc1e59a07f6bd4918d5990&scene=1&srcid=0217jqyj0SJs8b5pJVBXz1gD&key=710a5d99946419d939297e0e17a1a7b74a09e78acc839d21cbe6933b50afeb56003160b94f59a8bc803cdca68ff78ab5&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=R78ZO8Dg%2BnwLU%2Fz7iuOWY4c0ja0VIlOFzh%2FJxUrD80WPThgY9PmWJDG9F%2BBa%2Ba9Y)
+
+Can you can a can like a canner cans a can?
+
+3.[亲戚问每月多少工资时，程序猿该如何回答？](https://mp.weixin.qq.com/s?__biz=MzA3NzM0NzkxMQ==&mid=404060683&idx=1&sn=0008cd1284bca41b457879037a72efff&scene=1&srcid=0312InCjZbQLAd0Pr1GTRRCK&key=710a5d99946419d9f017d79806bb9f8ba7fdfb11c9def472bfad80e75265310cf5ec8d4d8a3728a9f31cc33473555c66&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=R78ZO8Dg%2BnwLU%2Fz7iuOWY4c0ja0VIlOFzh%2FJxUrD80WPThgY9PmWJDG9F%2BBa%2Ba9Y)
+
+在回答别人问题的时候。不一定要告诉他真实的答案。很多时候，告诉他一个符合他想象的答案，可能效果更好。因为不是每一个人，都有勇气去接受他不懂的东西，愿意去理解他未知的领域。对绝大多数人来说，更倾向用已有的想法，去解释看到的一切。这些人极度自负。固有的观念，在他心中围成了牢不可破的城堡。
+
+4.[想和你一起在这样的童话小镇，只闻花香，不谈喜悲](http://zixun.html5.qq.com/wechathot/article?ch=060000&tabId=wxtab1&tagId=MttWXSource&docId=2784510137&sourceType=&showAttach=true&clientWidth=320&video_ch=003902&sc_id=NIEw8fA)
+
+美到炸的通话小镇，开来一睹芳容！
 
 ***
+[@chenyunxuan](http://github.com/chenyunxuan)
 
 1.[最新免费帆樯神器：灯笼Lantern下载及使用教程](http://www.iyaxi.com/2015-11-17/732.html)
 
