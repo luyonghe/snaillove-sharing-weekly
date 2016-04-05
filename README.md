@@ -1,6 +1,102 @@
 # snaillove-sharing-weekly
 This is the weekly sharing in the company.
 
+### #16 2016-03-26(Sat)
+
+@木易景页
+
+### Quartz Composer & Origami 调查分析
+
+#### 1.什么是Quartz Composer？
+
+Apple自己的定义：
+
+Quartz Composer is a development tool for processing and rendering graphical data. Its visual programming environment lets you develop graphic processing modules, called compositions, without writing a single line of code. Quartz Composer is also a framework that lets you programmatically access, manage, and manipulate compositions created with the development tool. This document, however, is a guide to the Quartz Composer development tool supplied in OS X v10.5. By reading this guide, you’ll get an introduction to using the Quartz Composer editor and find out how to use it to create a composition. You’ll also see how to use compositions as screen savers and in QuickTime movies.
+
+WiKi上的定义：
+
+Quartz Composer is a node-based visual programming language provided as part of the Xcode development environment in Mac OS X for processing and rendering graphical data.
+
+QC designer社区总结：
+
+It is an Apple product used by designers & animators to create animations and prototypes. It also has wide use by VJs for live visualizations, among other uses. It has been around for a number of years but has recently had a resurgence in the software world following news of its role as a prototyping tool at industry giants Apple and Facebook.
+ 
+To create a composition, a user uses the Editor to connect a number of patches with “noodles” that sends a signal from one patch to another. The end result is displayed in the Viewer. Changes you make in the Editor immediately appear in the Viewer, which makes QC particularly well-suited for creating interactive prototypes.
+
+
+#### 2.Quartz Composer的实现模式？
+
+简单来说可以把 Quartz Composer 想象成图形化的 jQuery，我们只需把封装好的代码模块（patch）组装起来，设好参数，便能生成各种动态效果。由于是个编程工具，入门 Quartz Composer 需要点编程基础，最好会写 JavaScript 方便实现复杂的逻辑（初期对各种 patch 不熟悉更常会用到）。
+Quartz Composer 的基本原理就是把各种封装好的代码模块拼接起来。
+
+自定义patch的特性导致了插件的存在。
+Quartz Composer Custom Patch Programming Guide provides instructions on creating your own patches that you can then use in the Quartz Composer development tool.
+
+
+#### 3.什么是Origami？
+
+JQC and Origami are frameworks for QC that make it easier to use for interaction design. jQC is an open source framework that was built with help from this community and first released here, on this site. Origami is a framework developed by Facebook that includes many helpful bugfixes for QC as well as a number of patches. Both frameworks can be installed at the same time, and are complimentary to each other.
+
+Origami 和JQC都是QC的插件。
+
+
+facebook自己的解釋定义：
+
+
+Origami is a free tool for designing modern user interfaces. Quickly put together a prototype, run it on your iPhone or iPad, iterate on it, and export code snippets your engineers can use. 
+
+We created Origami to help us design and build many of our products at Facebook, including Instagram, Paper, Messenger, Slingshot, Rooms, and Groups. We’re excited to see what people make with it.
+
+
+#### 4.Origami＋Quartz Composer作为交互软件与同类型相比有何优势 ？
+
+优缺点比较：
+
+https://www.zhihu.com/question/24134539
+https://www.zhihu.com/question/26881294
+
+网友机灵比较：
+
+https://www.zhihu.com/question/26717124
+
+
+#### 5.Origami的不足？
+
+Origami可以导出iOS、Android、Web端的动效代码，然而基本上不能直接调用。 
+在关于逻辑、ui布局方面上还是需要手工编码。
+
+参考链接：
+https://www.zhihu.com/question/33407844
+
+导出代码并不是为了提高设计师与工程师之间的沟通效率，Facebook自己也表示这只是为了让动效在不同平台上达到统一。
+
+参考链接：
+https://medium.com/facebook-design/introducing-origami-live-and-origami-2-0-a68116294e65#.vt83dshh1
+
+
+#### 6.Origami如何运用在生产流程？
+
+Axure 搭建App整体框架，Origami＋Quartz Composer表现个别动效。
+
+
+#### 7.综合总结评价
+
+通过综合比较1.可呈现效果、2.开发效率、3.入门学习成本这三点，QC＋Origami的组合还是挺适合初级阶段的。
+但随着追求的效果逐步升高，学会编码是必须的。当对编码上手之后，同时追求更好的交互效果，不妨可以尝试使用Framer 之类的编程交互设计软件。
+
+
+#### 8.相关链接
+
+资源：
+
+Quartz Composer：在苹果的开发者网站下找到 Graphics Tools for Xcode。
+Origami：http://www.facebookorigami.cn/
+
+论坛：
+知乎：https://www.zhihu.com/question/20956344
+QC designer社区：http://qcdesigners.com/index.php/forums/topic/2/new-to-quartz-composer-start-he
+
+
 ### #14 2016-03-12(Sat)
 
 ***
