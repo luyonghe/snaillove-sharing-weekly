@@ -53,6 +53,7 @@ We created Origami to help us design and build many of our products at Facebook,
 优缺点比较：
 
 https://www.zhihu.com/question/24134539
+
 https://www.zhihu.com/question/26881294
 
 网友机灵比较：
@@ -93,7 +94,9 @@ Quartz Composer：在苹果的开发者网站下找到 Graphics Tools for Xcode�
 Origami：http://www.facebookorigami.cn/
 
 论坛：
+
 知乎：https://www.zhihu.com/question/20956344
+
 QC designer社区：http://qcdesigners.com/index.php/forums/topic/2/new-to-quartz-composer-start-he
 
 
