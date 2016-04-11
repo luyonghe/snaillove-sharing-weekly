@@ -3,7 +3,7 @@ This is the weekly sharing in the company.
 
 ### #17 2016-04-9(Sat)
 ***
-@misparking(https://github.com/misparking)
+[@misparking](https://github.com/misparking)
 
 1.[你的思考真的用上大脑了吗？](http://www.360doc.com/content/16/0404/10/20284327_547722773.shtml)
 大脑是用来思考的，从小我们都被如此教育，以至于这条准则近乎于常识。然而，一旦脱离教育体系，无人指导，需要靠自己去甄别信息、学习知识的时候，这种常识却成为了思维底层最大的盲区。
