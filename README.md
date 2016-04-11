@@ -1,6 +1,15 @@
 # snaillove-sharing-weekly
 This is the weekly sharing in the company.
 
+### #17 2016-04-9(Sat)
+***
+@misparking(https://github.com/misparking)
+
+1.[你的思考真的用上大脑了吗？](http://www.360doc.com/content/16/0404/10/20284327_547722773.shtml)
+大脑是用来思考的，从小我们都被如此教育，以至于这条准则近乎于常识。然而，一旦脱离教育体系，无人指导，需要靠自己去甄别信息、学习知识的时候，这种常识却成为了思维底层最大的盲区。
+2.[几个帮程序员减压放松的网站](http://www.techug.com/website-make-you-relax)
+[Calm](http://www.calm.com/)属于同类型中比较火的网站了，站如其名，「平和」，通过自然的图像（阳光下的暖流、淙淙的小溪等）与缓缓的音乐，帮你在短时间内放松下来，并且有手机客户端可以下载。
+***
 ### #16 2016-03-26(Sat)
 
 @木易景页
@@ -100,9 +109,11 @@ Origami：http://www.facebookorigami.cn/
 QC designer社区：http://qcdesigners.com/index.php/forums/topic/2/new-to-quartz-composer-start-he
 
 
-### #14 2016-03-12(Sat)
+### #15 2016-03-12(Sat)
 
 ***
+[@misparking](https://github.com/misparking)
+
 1.可见光无线通信  
 可见光无线通信又称“光保真技术”，英文名LightFidelity（简称LiFi）是一种利用可见光波谱(如灯泡发出的光)进行数据传输的全新无线传输技术，由英国爱丁堡大学电子通信学院移动通信系主席、德国物理学家HaraldHass（哈拉尔德·哈斯)教授发明。
 LiFi是运用已铺设好的设备(无处不在的LED灯)，通过在灯泡上植入一个微小的芯片形成类似于AP(WiFi热点)的设备，使终端随时能接入网络。该技术通过改变房间照明光线的闪烁频率进行数据传输，只要在室内开启电灯，无需WiFi也便可接入互联网。  
