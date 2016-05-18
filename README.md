@@ -2,7 +2,39 @@
 # snaillove-sharing-weekly
 This is the weekly sharing in the company.
 
+
+***
+
+@木昜景页
+
+1.[UX Coffee](http://ux.coffee)
+
+UX Coffee 是一个专注于 UX 的交流分享的平台，现在有 Podcast 节目。
+
+***
+
+[@ifeegoo](https://github.com/ifeegoo)
+
+1.[日本的传统颜色](http://www.nipponcolors.com)
+
+第一次听说这个的是从李如一的播客中听说的，学设计的同学可以关注下，可以去找找颜色灵感。
+
+2.关于灯泡的创意用途。
+
+最近发现有人用灯泡做饮料瓶（果汁，奶茶），还有用作植物栽培的，比较有创意。
+
+3.[创意T恤](https://mp.weixin.qq.com/s?__biz=MjM5ODE4ODMzMQ==&mid=2652762708&idx=2&sn=86dcc5eb44e44a7079c4725a2f23cef3&scene=1&srcid=0518ZeNRnfn8HsBSyezVDI7f&key=f5c31ae61525f82eebbb59dd063fd1262af2e8243f1d5f941c1e265d035269fe09571d08a595feb79964f0f063e891a0&ascene=0&uin=ODA0NTUxMDAw&devicetype=iMac+MacBookPro11%2C3+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=KisPoK3MhgkLL%2BJpIUpUuHYuXvKjH5Nh9%2Fo%2BeptzTrlUY3Xu3Yv0BIeN59uVuL07)
+
+去国外旅游，免不了语言不通，如何更好的表达自己的想法，我们可以看看这个创意T恤。
+
+4.[QQ空间点赞的那些事](https://isux.tencent.com/qzone-infographic-video.html)
+
+我们平时基本上都会用QQ空间，有兴趣看看背后点赞的那些事情否？
+
+***
+
 ### #18 2016-04-16(Sat)
+
 
 ***
 [@misparking](https://github.com/misparking)
