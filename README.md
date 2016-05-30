@@ -2,6 +2,18 @@
 # snaillove-sharing-weekly
 This is the weekly sharing in the company.
 
+***
+### #20 2016-05-28(Sat)
+
+@木昜景页
+
+1.[交互产品中的音效设计](https://zhuanlan.zhihu.com/p/20957023?refer=uxcoffee)
+
+有没有听说过音效设计师？
+
+2.[各种 XX Designer 到底有什么区别？](https://zhuanlan.zhihu.com/p/20797703?refer=lycheeorange)
+
+想要知道各种 Designer 的区别么？
 
 ***
 ### #19 2016-05-21(Sat)
